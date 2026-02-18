@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "display_name": "Botanical Garden of the University of Malaga",
+                "other_names": {
+                    "display_name": "Jard\u00edn Bot\u00e1nico de la Universidad de M\u00e1laga"
+                },
+                "country": "Spain",
+                "country_code": "es",
+                "state": "Andalusia",
+                "county": "M\u00e1laga-Costa del Sol",
+                "province": "Malaga",
+                "city": "M\u00e1laga",
+                "postcode": "29006",
+                "district": "Teatinos-Universidad",
+                "street": "Bulevar Louis Pasteur",
+                "iso3166_2": "ES-AN",
+                "iso3166_2_sublevel": "ES-MA",
+                "lon": -4.47168005070005,
+                "lat": 36.7156622,
+                "state_code": "AN",
+                "result_type": "amenity",
+                "formatted": "Botanical Garden of the University of Malaga, Bulevar Louis Pasteur, 29006 M\u00e1laga, Spain",
+                "address_line1": "Botanical Garden of the University of Malaga",
+                "address_line2": "Bulevar Louis Pasteur, 29006 M\u00e1laga, Spain",
+                "category": "leisure.park.garden",
+                "timezone": {
+                    "display_name": "Europe/Madrid",
+                    "offset_STD": "+01:00",
+                    "offset_STD_seconds": 3600,
+                    "offset_DST": "+02:00",
+                    "offset_DST_seconds": 7200,
+                    "abbreviation_STD": "CET",
+                    "abbreviation_DST": "CEST"
+                },
+                "plus_code": "8C8QPG8H+78",
+                "plus_code_short": "PG8H+78 M\u00e1laga, M\u00e1laga-Costa del Sol, Spain",
+                "rank": {
+                    "importance": 0.12549564188972803,
+                    "popularity": 8.871004589746821,
+                    "confidence": 1,
+                    "match_type": "full_match"
+                },
+                "place_id": "51b6ba5f1800e311c059e0fda7d19a5b4240f00102f901471b820400000000c0020192032c426f74616e6963616c2047617264656e206f662074686520556e6976657273697479206f66204d616c616761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.47168005070005,
+                    36.7156622
+                ]
+            },
+            "bbox": [
+                -4.4722585,
+                36.7149055,
+                -4.4710118,
+                36.7163804
+            ]
+        }
+    ],
+    "query": {
+        "text": "University of Malaga"
+    }
+}

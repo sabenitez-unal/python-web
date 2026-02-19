@@ -3,12 +3,12 @@
 Repositorio que contiene ejercicios y prácticas relacionadas al curso
 "Using Python to Access Web Data" de la Universidad de Michigan en Coursera.
 
-# Lo que se vió en el curso
+## Lo que se vió en el curso
 - **Consumo de APIs**: Conexión y comunicación con APIs REST web.
 - **JSON / XML**: Lectura y escritura de este tipo de datos para la comunicación.
 - **Web Scraping**: Extracción de datos de HTML usando BeautifulSoup.
 
-# Instalación
+## Instalación
 Para poder utilizar el repositorio, debes seguir los siguientes pasos:
 
 0. Recuerda tener instalado [Python](https://www.python.org/downloads/)
@@ -20,7 +20,7 @@ Para poder utilizar el repositorio, debes seguir los siguientes pasos:
     - Para Linux: `source .venv/bin/activate`
 5. Instala las depedencias necesarias utilizando [pip](https://pip.pypa.io/en/stable/) `pip install -r requierements.txt`
 
-# Uso
+## Uso
 Una vez hecho lo anterior, simplemente ejecuta desde la terminal
 ```bash
 python3 scripts/<carpeta-de-interes>/<archivo-de-interes.py>

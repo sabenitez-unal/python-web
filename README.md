@@ -23,5 +23,5 @@ Para poder utilizar el repositorio, debes seguir los siguientes pasos:
 # Uso
 Una vez hecho lo anterior, simplemente ejecuta desde la terminal
 ```bash
-python3 scripts/\<carpeta-de-interes\>/\<archivo-de-interes.py\>
+python3 scripts/<carpeta-de-interes>/<archivo-de-interes.py>
 ```

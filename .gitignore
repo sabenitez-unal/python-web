@@ -2,4 +2,4 @@
 .venv/
 
 # Ignorando el archivo de entorno para las APIs.
-scripts/apis/.env
+.env

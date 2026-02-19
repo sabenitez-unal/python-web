@@ -3,3 +3,10 @@
 
 # Ignorando el archivo de entorno para las APIs.
 .env
+
+# Ignorando archivos de configuración de IDEs.
+.vscode/
+.idea/
+
+# Ignorando archivos de datos y resultados.
+data/
